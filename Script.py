@@ -12,17 +12,17 @@ def is_enabled(value, default):
 
 class script(object):
     HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://clicksfly.com/ref/LazyDeveloperr')
-    START_TXT = environ.get("START_TXT", '''Hello {},
-Myself <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how super-fast i can drive your Database channel \n\nAre you ready for Long Drive Baby...🤪''')
-    HELP_TXT = """𝙷𝙴𝚈 {}
-𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/pArAd0X6>pArAd0X6</a>
-✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
-✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
-✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
-✯ 𝙱𝙾𝚃 𝚂𝙴𝚁𝚅𝙴𝚁: KOYEB
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v2.0.1 [ ミ *༄ᶦᶰᵈ᭄࿐𝘗𝘢𝘳𝘢𝘥𝟎𝘹 么 彡 ]"""
+    START_TXT = environ.get("START_TXT", '''𝐇𝐄𝐘 {},
+𝐌𝐲𝐬𝐞𝐥𝐟 <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how super-fast i can drive your Database channel \n\nAre you ready for Long Drive Baby...🤪''')
+    HELP_TXT = """𝙃𝙚𝙮 {}
+𝙃𝙀𝙍𝙀 𝙄𝙎 𝙈𝙔 𝙃𝙀𝙇𝙋 𝘾𝙊𝙈𝙈𝘼𝙉𝘿."""
+    ABOUT_TXT = """✯ 𝐌𝐘 𝐍𝐀𝐌𝐄 : {}
+✯ 𝐂𝐑𝐄𝐀𝐓𝐎𝐑: <a href=https://t.me/pArAd0X6>pArAd0X6</a>
+✯ 𝐋𝐈𝐁𝐑𝐀𝐑𝐘: 𝐏𝐘𝐏𝐑𝐎𝐆𝐑𝐀𝐌
+✯ 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄: 𝐏𝐘𝐓𝐇𝐎𝐍 3
+✯ 𝐃𝐀𝐓𝐀𝐁𝐀𝐒𝐄: 𝐌𝐎𝐍𝐆𝐎 𝐃𝐁
+✯ 𝐁𝐎𝐓 𝐒𝐄𝐑𝐕𝐄𝐑: 𝐊𝐎𝐘𝐄𝐁
+✯ 𝐁𝐔𝐈𝐋𝐃 𝐒𝐓𝐀𝐓𝐔𝐒: 𝐯-69 [ ミ *༄ᶦᶰᵈ᭄࿐𝘗𝘢𝘳𝘢𝘥𝟎𝘹 么 彡 ]"""
     SOURCE_TXT = """<b>ミ *༄ᶦᶰᵈ᭄࿐𝘗𝘢𝘳𝘢𝘥𝟎𝘹 么 彡 is an open source project</b>
 
 You can easily get its source code from github - <a href='https://github.com/LazyDeveloperr/LazyPrincessV2'>LazyDeveloperr</a>"""
