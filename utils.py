@@ -383,7 +383,7 @@ async def get_shortlink(link):
         https = "https"
         link = link.replace("http", https)
 
-    url = f'https://api.shrinkme.in/shortLink'
+    url = f'https://shrinkme.in/shortLink'
     params = {'token': URL_SHORTNER_WEBSITE_API,
               'link': link,
               'format': 'json'
@@ -397,8 +397,8 @@ async def get_shortlink(link):
                     return data['shortlink']
                 else:
                     logger.error(f"Error: {data['message']}")
-                    return f'https://api.shrinkme.in/directLink?token={URL_SHORTNER_WEBSITE_API}&link={link}'
+                    return f'https://shrinkme.in/st?api={URL_SHORTNER_WEBSITE_API}&link={link}'
 
     except Exception as e:
         logger.error(e)
-        return f'https://api.shrinkme.in/directLink?token={URL_SHORTNER_WEBSITE_API}&link={link}'
+        return f'https://shrinkme.in/st?api={URL_SHORTNER_WEBSITE_API}&link={link}'
