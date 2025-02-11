@@ -11,9 +11,9 @@ def is_enabled(value, default):
         return default
 
 class script(object):
-    HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://clicksfly.com/ref/LazyDeveloperr')
+    HOME_BUTTONURL_UPDATES = environ.get("HOME_BUTTONURL_UPDATES", 'https://clicksfly.com/ref/111301026318453615482')
     START_TXT = environ.get("START_TXT", '''𝐇𝐄𝐘 {},
-𝐌𝐲𝐬𝐞𝐥𝐟 <a href=https://t.me/{}>{}</a>,\n\nTrust me ! I can't even imagine how super-fast i can drive your Database channel \n\nAre you ready for Long Drive Baby...🤪''')
+𝐌𝐲𝐬𝐞𝐥𝐟 <a href=https://t.me/{}>{}</a>,\n\n𝙏𝙧𝙪𝙨𝙩 𝙢𝙚 ! 𝙔𝙤𝙪 𝙘𝙖𝙣'𝙩 𝙚𝙫𝙚𝙣 𝙞𝙢𝙖𝙜𝙞𝙣𝙚 𝙝𝙤𝙬 𝙨𝙪𝙥𝙚𝙧-𝙛𝙖𝙨𝙩 𝙞 𝙘𝙖𝙣 𝙙𝙧𝙞𝙫𝙚 𝙮𝙤𝙪𝙧 𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚 𝙘𝙝𝙖𝙣𝙣𝙚𝙡 \n\nAʀᴇ ʏᴏᴜ ʀᴇᴀᴅʏ ғᴏʀ ᴀ Lᴏɴɢ Dʀɪᴠᴇ 😎''')
     HELP_TXT = """𝙃𝙚𝙮 {}
 𝙃𝙀𝙍𝙀 𝙄𝙎 𝙈𝙔 𝙃𝙀𝙇𝙋 𝘾𝙊𝙈𝙈𝘼𝙉𝘿."""
     ABOUT_TXT = """✯ 𝐌𝐘 𝐍𝐀𝐌𝐄 : {}
@@ -101,11 +101,11 @@ This module only works for my admins
 • /unban  - <code>to unban a user.</code>
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
-    STATUS_TXT = """★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
-★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
-★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
-★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱
-★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 𝙼𝚒𝙱"""
+    STATUS_TXT = """★ Tᴏᴛᴀʟ Fɪʟᴇs: <code>{}</code>
+★ Tᴏᴛᴀʟ Usᴇʀs: <code>{}</code>
+★ Tᴏᴛᴀʟ Cʜᴀᴛs: <code>{}</code>
+★ Usᴇᴅ Sᴛᴏʀᴀɢᴇ: <code>{}</code> Mɪʙ
+★ Fʀᴇᴇ Sᴛᴏʀᴀɢᴇ: <code>{}</code> Mɪʙ"""
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
