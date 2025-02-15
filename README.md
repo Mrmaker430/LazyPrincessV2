@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://envs.sh/gYS.jpg" alt="Lazy Princess Logo">
+  <img src="https://envs.sh/EV9.jpg" alt="Ind Paradox Logo">
 </p>
 <h1 align="center">
-  <b> Lazy PrincessV2.0 </b>
+  <b> [𝙁.𝙍.𝙄.𝘿.𝘼.𝙔]™ </b>
 </h1>
 
 
