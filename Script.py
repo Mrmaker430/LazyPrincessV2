@@ -17,12 +17,12 @@ class script(object):
     HELP_TXT = """𝙃𝙚𝙮 {}
 𝙃𝙀𝙍𝙀 𝙄𝙎 𝙈𝙔 𝙃𝙀𝙇𝙋 𝘾𝙊𝙈𝙈𝘼𝙉𝘿."""
     ABOUT_TXT = """✯ 𝐌𝐘 𝐍𝐀𝐌𝐄 : {}
-✯ 𝐂𝐑𝐄𝐀𝐓𝐎𝐑: <a href=https://t.me/pArAd0X6>pArAd0X6</a>
-✯ 𝐋𝐈𝐁𝐑𝐀𝐑𝐘: 𝐏𝐘𝐏𝐑𝐎𝐆𝐑𝐀𝐌
-✯ 𝐋𝐀𝐍𝐆𝐔𝐀𝐆𝐄: 𝐏𝐘𝐓𝐇𝐎𝐍 3
-✯ 𝐃𝐀𝐓𝐀𝐁𝐀𝐒𝐄: 𝐌𝐎𝐍𝐆𝐎 𝐃𝐁
-✯ 𝐁𝐎𝐓 𝐒𝐄𝐑𝐕𝐄𝐑: 𝐊𝐎𝐘𝐄𝐁
-✯ 𝐁𝐔𝐈𝐋𝐃 𝐒𝐓𝐀𝐓𝐔𝐒: 𝐯-69 [ ミ *༄ᶦᶰᵈ᭄࿐𝘗𝘢𝘳𝘢𝘥𝟎𝘹 么 彡 ]"""
+✯ 𝘾𝙧𝙚𝙖𝙩𝙤𝙧: <a href=https://t.me/pArAd0X6>pArAd0X6</a>
+✯ 𝙇𝙞𝙗𝙧𝙖𝙧𝙮: 𝙋𝙮𝙧𝙤𝙜𝙧𝙖𝙢
+✯ 𝙇𝙖𝙣𝙜𝙪𝙖𝙜𝙚 : 𝙋𝙮𝙩𝙝𝙤𝙣 3
+✯ 𝘿𝙖𝙩𝙖𝙗𝙖𝙨𝙚 : 𝙈𝙤𝙣𝙜𝙤 𝘿𝙗
+✯ 𝘽𝙤𝙩 𝙎𝙚𝙧𝙫𝙚𝙧 : 𝙆𝙤𝙮𝙚𝙗
+✯ 𝘽𝙪𝙞𝙡𝙙 𝙎𝙩𝙖𝙩𝙪𝙨 : 𝙫1.07.3 """
     SOURCE_TXT = """<b>ミ *༄ᶦᶰᵈ᭄࿐𝘗𝘢𝘳𝘢𝘥𝟎𝘹 么 彡 is an open source project</b>
 
 You can easily get its source code from github - <a href='https://github.com/LazyDeveloperr/LazyPrincessV2'>LazyDeveloperr</a>"""
